@@ -1,0 +1,16 @@
+2019-08-05 23:18:01,035  [WARN] warn [log4cpp_class2.0.cc main:111]
+2019-08-05 23:18:01,036  [ERROR] error [log4cpp_class2.0.cc main:112]
+2019-08-05 23:18:01,037  [DEBUG] debug [log4cpp_class2.0.cc main:113]
+2019-08-05 23:18:01,037  [INFO] info [log4cpp_class2.0.cc main:114]
+2019-08-05 23:18:28,012  [WARN] this is a warn 22
+2019-08-06 00:13:06,310  [WARN] this is a warn 22
+2019-08-06 00:24:27,065  [WARN]  [log4cpp_class2.0.cc test:115]
+2019-08-06 17:14:26,675  [WARN]  [log4cpp_class2.0.cc test:141]
+2019-08-06 17:15:43,863  [WARN]  [log4cpp_class2.0.cc test:141]
+2019-08-06 17:21:14,441  [WARN] this is a warn 22 [log4cpp_class2.0.cc test:141]
+2019-08-06 17:21:39,453  [WARN] this is a warn 22 [log4cpp_class2.0.cc test:140]
+2019-08-06 17:21:51,314  [WARN] this is a warn 22 [log4cpp_class2.0.cc test:140]
+2019-08-06 17:22:22,906  [WARN] this is a warn 22 [log4cpp_class2.0.cc test:139]
+2019-08-06 17:22:22,906  [ERROR] this is a error 22 [log4cpp_class2.0.cc test:140]
+2019-08-06 17:23:06,431  [WARN] this is a warn 22,hhh [log4cpp_class2.0.cc test:139]
+2019-08-06 17:23:06,431  [ERROR] this is a error 22 [log4cpp_class2.0.cc test:140]
